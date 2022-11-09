@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+veins.design	TRUE	/	FALSE	1999999999	ARRAffinity	fdaf89ab736c0b42f319a89a247a9e73d44b8681849a013deba67dc6c0f804a1
+veins.design	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	fdaf89ab736c0b42f319a89a247a9e73d44b8681849a013deba67dc6c0f804a1
+veins.design	TRUE	/	FALSE	1999999999	SameSite	None
+hm.baidu.com	TRUE	/	FALSE	1999999999	HMACCOUNT	376BAE1FB66C1DC1
+

@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 09 Nov 2022 15:32:16 at https://veins.design/effect/web/balls-cube +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://veins.design/effect/web/balls-cube -O1 "C:\My Web Sites\ball cube" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:32:59	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://hm.baidu.com/hm.js?98416029791760e937903ce1a8cf7721 (from https://veins.design/effect/web/balls-cube)
+15:32:59	Error: 	"Not Found" (404) at link https://veins.design/effect/web/GET (from https://veins.design/Scripts/3d/three.min.js)
+15:32:59	Error: 	"Not Found" (404) at link https://veins.design/effect/web/THREE.CanvasRenderer has been moved to /examples/js/renderers/CanvasRenderer.js (from https://veins.design/Scripts/3d/three.min.js)
+15:32:59	Error: 	"Not Found" (404) at link https://veins.design/effect/web/THREE.SceneUtils has been moved to /examples/js/utils/SceneUtils.js (from https://veins.design/Scripts/3d/three.min.js)
+15:32:59	Error: 	"Not Found" (404) at link https://veins.design/effect/web/THREE.LensFlare has been moved to /examples/js/objects/Lensflare.js (from https://veins.design/Scripts/3d/three.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 44 seconds : 22 links scanned, 16 files written (2219666 bytes overall) [634340 bytes received at 14416 bytes/sec], 2215129 bytes transferred using HTTP compression in 16 files, ratio 28%
+(4 errors, 1 warnings, 0 messages)
